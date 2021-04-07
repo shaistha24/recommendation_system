@@ -1,3 +1,3 @@
 # Recommendation System 
 
-Using Anime Dataset called [MyAnimeList](https://www.kaggle.com/azathoth42/myanimelist) 
+Using [Anime Database for Recommendation system](https://www.kaggle.com/vishalmane109/anime-recommendations-database) 
